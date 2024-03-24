@@ -14,6 +14,7 @@
 ## Credit
 - 音樂：[Universal Shopping Spree 3](https://freesound.org/people/Xcreenplay/sounds/710363/)
 - 開頭音樂：[Flying](https://freesound.org/people/Xcreenplay/sounds/701202/)
+- 背景畫面：[浩瀚太空宇宙藍色星雲銀河背景圖桌布](https://zh.pngtree.com/freebackground/vast-space-universe-blue-nebula-galaxy-background_1178899.html)
 - 圖片：[血條](https://www.pinterest.com/pin/1084663891494578001/)
 - 圖片：[戰鬥機](https://zh.pngtree.com/freepng/gray-cartoon-military-fighter_4507998.html)
 - 圖片：[金幣](https://zh.lovepik.com/image-401704401/gold.html)
