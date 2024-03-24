@@ -10,7 +10,9 @@
 ## 遊戲機制
 1. 隨著時間分數會增加
 2. 碰到金幣+150分
-3. 碰到敵機扣1個血並-100分
+3. 碰到敵機扣1個生命並-100分
+4. 當五次生命扣光，遊戲即結束
+5. 太空船在碰到邊界會由另一邊界再次出現，行進方向的前後則是碰到邊界後無法繼續前進/後退
 ## Credit
 - 音樂：[Universal Shopping Spree 3](https://freesound.org/people/Xcreenplay/sounds/710363/)
 - 開頭音樂：[Flying](https://freesound.org/people/Xcreenplay/sounds/701202/)
